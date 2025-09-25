@@ -1,3 +1,3 @@
 # Task-3-Design-an-interactive-dashboard-for-business-stakeholders.
-The interactive dashboard is a centralized ,real time data visualization tool designed to help business stakeholders make infomed decisions quickly and effectively.
-it consolidates key performance indicators (KPI),Financial metrics,operational data,and customer insightd into one intuitive interface.
+
+This project analyzes Coffee Chain Sales data and presents it in an interactive Power BI dashboard. The goal is to track sales, profit, and growth performance, compare actuals vs targets, and provide actionable insights for decision-making.
